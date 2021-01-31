@@ -1,0 +1,14 @@
+[
+  {
+    "name": "dashboard",
+    "input": "./frontend/dashboard/main.js",
+    "resolvePath": "frontend/dashboard",
+    "sourceMapFileName": "dashboard.js.map",
+    "publicPath": "/dist/",
+    "outputPath": "public/modules/dashboard/assets/js",
+    "fileName": "dashboard.js",
+    "extensions": [
+      ".js", ".vue", ".json", ".html"
+    ]
+  }
+]

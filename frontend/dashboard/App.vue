@@ -1,7 +1,5 @@
 <template>
-    <div>
-        Content Facebook
-    </div>
+    <div>Content Das</div>
 </template>
 <script>
 export default {
