@@ -3,7 +3,6 @@
 @section('content')
 <div id="dashboard-app">
     <app></app>
-
-    <script src="{{ mix('/modules/dashboard/assets/js/index.js') }}"></script>
 </div>
+<script src="{{ mix('/modules/dashboard/assets/js/dashboard.js') }}"></script>
 @endsection
